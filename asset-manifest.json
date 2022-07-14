@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FoodOrderApps/static/css/main.97c5c7c9.css",
+    "main.js": "/FoodOrderApps/static/js/main.7af493de.js",
+    "static/js/787.db4e88b6.chunk.js": "/FoodOrderApps/static/js/787.db4e88b6.chunk.js",
+    "index.html": "/FoodOrderApps/index.html",
+    "main.97c5c7c9.css.map": "/FoodOrderApps/static/css/main.97c5c7c9.css.map",
+    "main.7af493de.js.map": "/FoodOrderApps/static/js/main.7af493de.js.map",
+    "787.db4e88b6.chunk.js.map": "/FoodOrderApps/static/js/787.db4e88b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97c5c7c9.css",
+    "static/js/main.7af493de.js"
+  ]
+}
